@@ -18,5 +18,11 @@
     <ClCompile Include="..\..\Source\main.c">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
